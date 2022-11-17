@@ -1,4 +1,4 @@
-# Observer Design Pattern [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+# Observer Design Pattern [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://en.wikipedia.org/wiki/Open_source)
 
 Observer is a behavioral design pattern that allows some objects to notify other objects about changes in their state.
 
